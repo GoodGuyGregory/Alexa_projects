@@ -114,3 +114,12 @@ to create a compliant certified Service skill you must have the following:
   -AMAZON.StopIntent  
   -AMAZON.CancelIntent  
   -AMAZON.HelpIntent  
+  
+--------  
+
+## Certification Specs:  
+
+### Icons: 
+ 
+ Small: 108px x 108px
+ Large: 512px x 512px
