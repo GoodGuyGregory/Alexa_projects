@@ -75,12 +75,13 @@ Next building an intent Schema is the intents of what your application will do i
 
 **example:** 
 
-`{
-  "intents": [
-    {
-      "intent": "GetDefinition",
-      "slots": [
-        {
+`{  
+
+  "intents": [  
+    {  
+      "intent": "GetDefinition",  
+      "slots": [  
+        {  
           "name": "Term",
           "type": "LIST_OF_TERMS"
         }
