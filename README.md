@@ -71,7 +71,7 @@ Visit this site and sign up for a free account https://developer.amazon.com/
 This is the first step you need to follow on the appplication site, Creating a two word  max invocation that Alexa can understand  
 
 ### Intent: ###   
-Next building an intent Schema is the intents of what your application will do in other words the types of skills or tasks it can accomplish  
+Next building an intent Schema is the intents of what your application will do in other words the types of skills or tasks it can accomplish This program is written in a JSON format
 
 **example:** 
 
