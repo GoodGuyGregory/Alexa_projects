@@ -12,7 +12,9 @@ https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 
 # Anatomy of Custom Skills:  
 
-needs a Custome INteraction Model:  
+needs a **Custom Interaction Model**: Basically the ability for the user to be udnerstood by Alexa  by training it to respond in certain ways 
+
+Innvocation -> Skill Service
 
 Innvocation: for example: "Alexa, ask **Treehouse** whats the Meaning of HTML"  
                           "Alexa, play **Spotify**   
