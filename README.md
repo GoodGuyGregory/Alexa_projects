@@ -103,4 +103,14 @@ Next building an intent Schema is the intents of what your application will do i
 
 ## Testing:  
 
-You can test your programmed skills by using the site https://echosim.io/welcome
+You can test your programmed skills by using the site https://echosim.io/welcome  
+
+## Certification:   
+
+to create a compliant certified Service skill you must have the following:  
+
+**Required Intents**  
+  -LaunchRequest  
+  -AMAZON.StopIntent  
+  -AMAZON.CancelIntent  
+  -AMAZON.HelpIntent  
