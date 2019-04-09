@@ -1,4 +1,4 @@
-# Alexa_projects
+# Alexa Projects
 
 Must be build on the Alexa Skills Kit
 
