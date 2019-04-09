@@ -38,5 +38,63 @@ Treehouse is an example of the invocation name, the name of the custom skill.
 
 Alexa, ask Treehouse, what does CSS mean?
 
-what does CSS mean is an example of an utterance. The command or question routed to your skill service.
+what does CSS mean is an example of an utterance. The command or question routed to your skill service.  
+
+------------------------------  
+
+## Creating Your Skill: 
+
+In order to actually create a skill you need to build an *User Interaction Model* for you skill. Starting by creating some example Phrases.  
+
+Terms: HTML, CSS, Javascript  
+
+**Alexa, ask Treehouse...
+
+Examples: 
+
+What does HTML mean..
+What does HTML stand for
+What's the definition of CSS
+What is the definition of Javascript
+What Are some Common Programming languages?  
+What the definition of Javascript.  
+
+Intents: Get Definition or Explaination.  
+
+-----------  
+
+## Actual Development:  
+
+Visit this site and sign up for a free account https://developer.amazon.com/
+
+### Invocation: ###   
+This is the first step you need to follow on the appplication site, Creating a two word  max invocation that Alexa can understand  
+
+### Intent: ###   
+Next building an intent Schema is the intents of what your application will do in other words the types of skills or tasks it can accomplish  
+
+**example:** 
+
+`{
+  "intents": [
+    {
+      "intent": "GetDefinition",
+      "slots": [
+        {
+          "name": "Term",
+          "type": "LIST_OF_TERMS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}`
                      
