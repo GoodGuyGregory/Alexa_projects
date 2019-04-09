@@ -98,4 +98,9 @@ Next building an intent Schema is the intents of what your application will do i
     }
   ]
 }`
-                     
+
+--------  
+
+## Testing:  
+
+You can test your programmed skills by using the site https://echosim.io/welcome
