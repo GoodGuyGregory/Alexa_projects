@@ -10,7 +10,10 @@ Initial Project will be using Java Script for the skills
 
 In order to build a skill for Alexa you will need to use the Alexa Skills Kit for your language below is Node.js  
 
-https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
+https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs  
+
+## Development Video for Modern Users:  
+[Amazon Skill Building](https://www.youtube.com/watch?v=BB3wwxgqPOU)
 
 # Anatomy of Custom Skills:  
 
